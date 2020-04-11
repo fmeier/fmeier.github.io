@@ -1,9 +1,9 @@
 {
-    "name": "bamos.github.io",
+    "name": "fmeier.github.io",
     "version": "0.0.0",
-    "homepage": "https://github.com/bamos/bamos.github.io",
+    "homepage": "https://github.com/fmeier/fmeier.github.io",
     "authors": [
-        "Brandon Amos <bamos@cs.cmu.edu>"
+        "Franziska Meier <fmeier@fb.com>"
     ],
     "license": "Apache",
     "ignore": [

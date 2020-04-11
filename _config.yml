@@ -1,7 +1,7 @@
-name: Brandon Amos
-url: http://bamos.github.io
+name: Franziska Meier
+url: http://fmeier.github.io
 destination: ./_site
-twitter: brandondamos
+twitter: _kainoa_
 lsi: false
 port: 4000
 markdown: kramdown

@@ -1,3 +1,2 @@
-Brandon D. Amos is a Computer Science Ph.D. student at Carnegie Mellon University
-with research interests in machine learning, computer vision, and mobile computing.
-He obtained a B.S. in Computer Science from Virginia Tech in May 2014.
+Franziska Meier is a research scientist at Facebook AI Research (FAIR) with research interests in robotics and machine learning.
+She obtained a PhD in Computer Science from University of Southern California in 2016.
