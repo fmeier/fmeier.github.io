@@ -1,6 +1,15 @@
  I am a research scientist at <b>Facebook AI (FAIR)</b> in Menlo Park. My research interests lie at the intersection of <b>machine learning</b> and <b>robotics</b>. I have a Ph.D. from the <b>University of Southern California</b> and was advised by [Stefan Schaal](https://stefan-schaal.net). My publications are available on [my Google Scholar page](https://scholar.google.com/citations?user=7oxkHYYAAAAJ&hl=en) and my open source contributions can be found on [my Github profile](https://github.com/fmeier).
 
 
+<b>News</b>
+<table class="table table-hover">
+<tr>
+  <td class='col-md-3'>January 2021</td>
+  <td>Our work on [Meta-Learning via Learned Loss](https://arxiv.org/abs/1906.05374) has received the <b> best student paper award </b> at ICPR 2020</td>
+</tr>
+<tr>
+</tr>
+</table>
 <!-- ## <i class="fa fa-chevron-right"></i> Education -->
 
 <!-- <table class="table table-hover">
