@@ -5,7 +5,7 @@
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>January 2021</td>
-  <td>Our work on [Meta-Learning via Learned Loss](https://arxiv.org/abs/1906.05374) has received the <b> best student paper award </b> at ICPR 2020</td>
+  <td>Our work on <a href="https://arxiv.org/abs/1906.05374">Meta-Learning via Learned Loss</a> has received the <b> best student paper award </b> at ICPR 2020</td>
 </tr>
 <tr>
 </tr>
