@@ -8,6 +8,10 @@
   <td>Our work on <a href="https://arxiv.org/abs/1906.05374">Meta-Learning via Learned Loss</a> has received the <b> best student paper award </b> at ICPR 2020</td>
 </tr>
 <tr>
+  <td class='col-md-3'>October 2020</td>
+  <td>Our work on <a href="https://arxiv.org/abs/2010.09034">Model-Based Inverse Reinforcement Learning from Visual Demonstrations</a> has been accepted at CoRL the, <a href="https://sites.google.com/view/model-based-irl-from-vision"> website </a>, <a href="https://www.youtube.com/watch?v=sRrNhtLk12M&t"> video </a> </td>
+</tr>
+<tr>
 </tr>
 </table>
 <!-- ## <i class="fa fa-chevron-right"></i> Education -->
