@@ -1,15 +1,27 @@
- I am a research scientist at <b>Facebook AI (FAIR)</b> in Menlo Park. My research interests lie at the intersection of <b>machine learning</b> and <b>robotics</b>. I have a Ph.D. from the <b>University of Southern California</b> and was advised by [Stefan Schaal](https://stefan-schaal.net). My publications are available on [my Google Scholar page](https://scholar.google.com/citations?user=7oxkHYYAAAAJ&hl=en) and my open source contributions can be found on [my Github profile](https://github.com/fmeier).
+ I am a research scientist at <b>FAIR</b>@Meta in Menlo Park. I am the team lead of the Cortex team which is focussed on learning and evaluating foundation models for robotics. My research interests lie at the intersection of <b>machine learning</b> and <b>robotics</b>, with a special interest in lifelong learning. I have a Ph.D. from the <b>University of Southern California</b> and was advised by [Stefan Schaal](https://stefan-schaal.net). My publications are available on [my Google Scholar page](https://scholar.google.com/citations?user=7oxkHYYAAAAJ&hl=en) and my open source contributions can be found on [my Github profile](https://github.com/fmeier).
 
 <b></b>
 <b>News</b>
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>January 2021</td>
+  <td>Check out our blog post on <a href="https://ai.meta.com/blog/teaching-ai-to-manipulate-objects-using-visual-demos/?__tn__=-UK-R">Teaching AI to manipulate objects using visual demos</a> which highlights our work on learning from visual demonstrations via model-based (inverse) reinforcement learning</td>
+</tr>
+<tr>
+  <td class='col-md-3'>January 2021</td>
+  <td>Check out our blog post on <a href="https://ai.meta.com/blog/teaching-ai-to-manipulate-objects-using-visual-demos/?__tn__=-UK-R">Teaching AI to manipulate objects using visual demos</a> which highlights our work on learning from visual demonstrations via model-based (inverse) reinforcement learning</td>
+</tr>
+ <tr>
+  <td class='col-md-3'>January 2021</td>
   <td>Our work on <a href="https://arxiv.org/abs/1906.05374">Meta-Learning via Learned Loss</a> has received the <b> best student paper award </b> at ICPR 2020</td>
 </tr>
 <tr>
   <td class='col-md-3'>October 2020</td>
   <td>Our work on <a href="https://arxiv.org/abs/2010.09034">Model-Based Inverse Reinforcement Learning from Visual Demonstrations</a> has been accepted at CoRL the, <a href="https://sites.google.com/view/model-based-irl-from-vision"> website </a>, <a href="https://www.youtube.com/watch?v=sRrNhtLk12M&t"> video </a> </td>
+</tr>
+<tr>
+  <td class='col-md-3'>October 2020</td>
+  <td>We've open-sourced our library <a href="[https://arxiv.org/abs/2010.09034](https://github.com/facebookresearch/differentiable-robot-model)">Differentiable Robot Models</a> </td>
 </tr>
 <tr>
 </tr>
