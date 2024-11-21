@@ -1,16 +1,24 @@
- I am a research scientist at <b>FAIR</b>@Meta in Menlo Park. I am the team lead of the Cortex team which is focussed on learning and evaluating foundation models for robotics. My research interests lie at the intersection of <b>machine learning</b> and <b>robotics</b>, with a special interest in lifelong learning. I have a Ph.D. from the <b>University of Southern California</b> and was advised by [Stefan Schaal](https://stefan-schaal.net). My publications are available on [my Google Scholar page](https://scholar.google.com/citations?user=7oxkHYYAAAAJ&hl=en) and my open source contributions can be found on [my Github profile](https://github.com/fmeier).
+ I am a research scientist at <b>FAIR</b>@Meta AI in Menlo Park. I am the team lead of the Cortex team which is focussed on learning and evaluating foundation models for robotics. My research interests lie at the intersection of <b>machine learning</b> and <b>robotics</b>, with a special interest in lifelong learning. I have a Ph.D. from the <b>University of Southern California</b> and was advised by [Stefan Schaal](https://stefan-schaal.net). My publications are available on [my Google Scholar page](https://scholar.google.com/citations?user=7oxkHYYAAAAJ&hl=en) and my open source contributions can be found on [my Github profile](https://github.com/fmeier).
 
 <b></b>
 <b>News</b>
 <table class="table table-hover">
 
+  <tr>
+  <td class='col-md-3'>April 2024</td>
+  <td>We’re releasing OpenEQA — the Open-Vocabulary Embodied Question Answering Benchmark. It measures an AI agent’s understanding of physical environments by probing it with open vocabulary questions like “Where did I leave my badge?”! See our <a href="https://ai.meta.com/blog/openeqa-embodied-question-answering-robotics-ar-glasses/">blog post</a> and <a href="https://open-eqa.github.io">website</a> </td> for more details.
+</tr>
+ <tr>
+  <td class='col-md-3'>May 2023</td>
+  <td>We're presenting BC-IRL at ICLR 2023! <a href="https://arxiv.org/abs/2303.16194">paper</a> </td>, <a href="https://github.com/facebookresearch/bc-irl">code</a> </td>. In this work we analyze SOTA inverse reinforcement learning algorithms and show that reward functions are overfitting to the demonstrations used for training. We present an algorithm to train generaliable reward functions!
+</tr>
  <tr>
   <td class='col-md-3'>March 2023</td>
   <td>You can find VC-1 on Huggingface! <a href="https://huggingface.co/facebook/vc1-base">VC-1 Base</a> </td>
 </tr>
  <tr>
   <td class='col-md-3'>March 2023</td>
-  <td>We've open-sourced CortexBench, a benchmark to evalaute visual foundation models for robotics on 17 simulated robotics tasks, and VC-1, a visual foundation model that on average achieves SOTA on all 17 tasks! We summarize our findings on training VC-1 in our paper <a href="https://ai.meta.com/research/publications/where-are-we-in-the-search-for-an-artificial-visual-cortex-for-embodied-intelligence/">Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?</a>, you can find the code <a href="https://github.com/facebookresearch/eai-vc/"> here </a> </td>
+  <td> We've open-sourced CortexBench and VC-1, find details on our <a href="https://eai-vc.github.io"> website </a>! In short, CortexBench is a benchmark to evalaute visual foundation models for robotics on 17 simulated robotics tasks, and VC-1, a visual foundation model that on average achieves SOTA on all 17 tasks! We summarize our findings on training VC-1 in our paper <a href="https://ai.meta.com/research/publications/where-are-we-in-the-search-for-an-artificial-visual-cortex-for-embodied-intelligence/">Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?</a>, you can find the code <a href="https://github.com/facebookresearch/eai-vc/"> here </a> </td>
 </tr>
 <tr>
   <td class='col-md-3'>January 2021</td>
