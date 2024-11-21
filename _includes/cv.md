@@ -10,7 +10,7 @@
 </tr>
  <tr>
   <td class='col-md-3'>May 2023</td>
-  <td>We're presenting BC-IRL at ICLR 2023! <a href="https://arxiv.org/abs/2303.16194">paper</a> </td>, <a href="https://github.com/facebookresearch/bc-irl">code</a>. In this work we analyze SOTA inverse reinforcement learning algorithms and show that reward functions are overfitting to the demonstrations used for training. We present an algorithm to train generaliable reward functions!</td>
+  <td>We're presenting BC-IRL at ICLR 2023! <a href="https://arxiv.org/abs/2303.16194">paper</a>, <a href="https://github.com/facebookresearch/bc-irl">code</a>. In this work we analyze SOTA inverse reinforcement learning algorithms and show that reward functions are overfitting to the demonstrations used for training. We present an algorithm to train generaliable reward functions!</td>
 </tr>
  <tr>
   <td class='col-md-3'>March 2023</td>
