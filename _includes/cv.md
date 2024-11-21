@@ -25,7 +25,7 @@
 </tr>
  <tr>
   <td class='col-md-3'>May 2023</td>
-  <td>We're presenting BC-IRL at ICLR 2023! <a href="https://arxiv.org/abs/2303.16194">paper</a>, <a href="https://github.com/facebookresearch/bc-irl">code</a>. In this work we analyze SOTA inverse reinforcement learning algorithms and show that reward functions are overfitting to the demonstrations used for training. We present an algorithm to train generaliable reward functions!</td>
+  <td>We're presenting BC-IRL at ICLR 2023! <a href="https://arxiv.org/abs/2303.16194">paper</a>, <a href="https://github.com/facebookresearch/bc-irl">code</a>. In this work we analyze SOTA inverse reinforcement learning algorithms and show that reward functions are overfitting to the demonstrations used for training. We present an algorithm to train generalizable reward functions!</td>
 </tr>
  <tr>
   <td class='col-md-3'>March 2023</td>
@@ -33,7 +33,7 @@
 </tr>
  <tr>
   <td class='col-md-3'>March 2023</td>
-  <td> We've open-sourced CortexBench and VC-1, find details on our <a href="https://eai-vc.github.io"> website </a>! In short, CortexBench is a benchmark to evalaute visual foundation models for robotics on 17 simulated robotics tasks, and VC-1, a visual foundation model that on average achieves SOTA on all 17 tasks! We summarize our findings on training VC-1 in our paper <a href="https://ai.meta.com/research/publications/where-are-we-in-the-search-for-an-artificial-visual-cortex-for-embodied-intelligence/">Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?</a>, you can find the code <a href="https://github.com/facebookresearch/eai-vc/"> here </a> </td>
+  <td> We've open-sourced CortexBench and VC-1, find details on our <a href="https://eai-vc.github.io"> website </a>! In short, CortexBench is a benchmark to evaluate visual foundation models for robotics on 17 simulated robotics tasks, and VC-1, a visual foundation model that on average achieves SOTA on all 17 tasks! We summarize our findings on training VC-1 in our paper <a href="https://ai.meta.com/research/publications/where-are-we-in-the-search-for-an-artificial-visual-cortex-for-embodied-intelligence/">Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?</a>, you can find the code <a href="https://github.com/facebookresearch/eai-vc/"> here </a> </td>
 </tr>
 <tr>
   <td class='col-md-3'>January 2021</td>
