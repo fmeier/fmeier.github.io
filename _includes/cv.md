@@ -4,6 +4,21 @@
 <b>News</b>
 <table class="table table-hover">
 
+
+
+
+
+<b></b>
+<b>Announcements</b>
+<table class="table table-hover">
+<tr>
+  <td class='col-md-3'>Nov 2024</td>
+  <td> I am looking for a Research Scientist for my team. If you're interested in research at the intersection of manipulation, world models and imitation learning and are looking for research scientist positions, please contact me! See our job posting <a href="https://www.metacareers.com/jobs/1093551845379852/"> here </a>.</td>
+</tr>
+ <tr>
+ </tr>
+</table>
+
   <tr>
   <td class='col-md-3'>April 2024</td>
   <td>We’re releasing OpenEQA — the Open-Vocabulary Embodied Question Answering Benchmark. It measures an AI agent’s understanding of physical environments by probing it with open vocabulary questions like “Where did I leave my badge?”! See our <a href="https://ai.meta.com/blog/openeqa-embodied-question-answering-robotics-ar-glasses/">blog post</a> and <a href="https://open-eqa.github.io">website</a> for more details.</td>
