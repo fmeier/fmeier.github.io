@@ -3,13 +3,18 @@
 <b></b>
 <b>News</b>
 <table class="table table-hover">
-<tr>
-  <td class='col-md-3'>January 2021</td>
-  <td>Check out our blog post on <a href="https://ai.meta.com/blog/teaching-ai-to-manipulate-objects-using-visual-demos/?__tn__=-UK-R">Teaching AI to manipulate objects using visual demos</a> which highlights our work on learning from visual demonstrations via model-based (inverse) reinforcement learning</td>
+
+ <tr>
+  <td class='col-md-3'>March 2023</td>
+  <td>You can find VC-1 on Huggingface! <a href="https://huggingface.co/facebook/vc1-base">VC-1 Base</a> </td>
+</tr>
+ <tr>
+  <td class='col-md-3'>March 2023</td>
+  <td>We've open-sourced CortexBench, a benchmark to evalaute visual foundation models for robotics on 17 simulated robotics tasks, and VC-1, a visual foundation model that on average achieves SOTA on all 17 tasks! We summarize our findings on training VC-1 in our paper <a href="https://ai.meta.com/research/publications/where-are-we-in-the-search-for-an-artificial-visual-cortex-for-embodied-intelligence/">Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?</a>, you can find the code <a href="https://github.com/facebookresearch/eai-vc/"> here </a> </td>
 </tr>
 <tr>
   <td class='col-md-3'>January 2021</td>
-  <td>Check out our blog post on <a href="https://ai.meta.com/blog/teaching-ai-to-manipulate-objects-using-visual-demos/?__tn__=-UK-R">Teaching AI to manipulate objects using visual demos</a> which highlights our work on learning from visual demonstrations via model-based (inverse) reinforcement learning</td>
+  <td>Check out our blog post on <a href="https://ai.meta.com/blog/teaching-ai-to-manipulate-objects-using-visual-demos">Teaching AI to manipulate objects using visual demos</a> which highlights our work on learning from visual demonstrations via model-based (inverse) reinforcement learning</td>
 </tr>
  <tr>
   <td class='col-md-3'>January 2021</td>
@@ -17,7 +22,7 @@
 </tr>
 <tr>
   <td class='col-md-3'>October 2020</td>
-  <td>Our work on <a href="https://arxiv.org/abs/2010.09034">Model-Based Inverse Reinforcement Learning from Visual Demonstrations</a> has been accepted at CoRL the, <a href="https://sites.google.com/view/model-based-irl-from-vision"> website </a>, <a href="https://www.youtube.com/watch?v=sRrNhtLk12M&t"> video </a> </td>
+  <td>Our work on <a href="https://arxiv.org/abs/2010.09034">Model-Based Inverse Reinforcement Learning from Visual Demonstrations</a> has been accepted at CoRL, <a href="https://sites.google.com/view/model-based-irl-from-vision"> website </a>, <a href="https://www.youtube.com/watch?v=sRrNhtLk12M&t"> video </a> </td>
 </tr>
 <tr>
   <td class='col-md-3'>October 2020</td>
