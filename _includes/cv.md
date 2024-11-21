@@ -49,7 +49,7 @@
 </tr>
 <tr>
   <td class='col-md-3'>October 2020</td>
-  <td>We've open-sourced our library <a href="[https://arxiv.org/abs/2010.09034](https://github.com/facebookresearch/differentiable-robot-model)">Differentiable Robot Models</a> </td>
+  <td>We've open-sourced our library <a href="https://github.com/facebookresearch/differentiable-robot-model">Differentiable Robot Models</a> </td>
 </tr>
 <tr>
 </tr>
