@@ -5,9 +5,6 @@
 <table class="table table-hover">
 
 
-
-
-
 <b></b>
 <b>Announcements</b>
 <table class="table table-hover">
@@ -19,6 +16,9 @@
  </tr>
 </table>
 
+<b></b>
+<b>Research Updates!</b>
+<table class="table table-hover">
   <tr>
   <td class='col-md-3'>April 2024</td>
   <td>We’re releasing OpenEQA — the Open-Vocabulary Embodied Question Answering Benchmark. It measures an AI agent’s understanding of physical environments by probing it with open vocabulary questions like “Where did I leave my badge?”! See our <a href="https://ai.meta.com/blog/openeqa-embodied-question-answering-robotics-ar-glasses/">blog post</a> and <a href="https://open-eqa.github.io">website</a> for more details.</td>
