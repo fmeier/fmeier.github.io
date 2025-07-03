@@ -5,10 +5,12 @@
 <b>Announcements</b>
 <table class="table table-hover">
 <tr>
+<td class='col-md-3'> May 2025</td>
+Our paper *Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D* was accepted at ICML 2025 as a **spotlight paper! (top 2.6%)**. Find more details on our <a href="https://locate3d.atmeta.com>">website</a> (with links to models, new dataset and demo).
+</td>
+<tr>
   <td class='col-md-3'>April 2025</td>
-  <td> We have release Locate3D a new SOTA model for locating objects from natural language expressions. Locate3D runs directly on pointclouds constructed from a robots sensors! We've released the <a href="https://github.com/facebookresearch/locate-3d/">model</a> and a new human annotated dataset for 3D referring expressions</a>, and a demo <a href="https://locate3d.atmeta.com/demo">demo</a>. Learn more about the models capabilities on our <a href="https://locate3d.atmeta.com>">website</a> for more details.
-
-Our accompyaning paper *Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D* was accepted at ICML 2025 as a **spotlight paper! (top 2.6%)**.
+  <td> We have release Locate3D a new SOTA model for locating objects from natural language expressions. Locate3D runs directly on pointclouds constructed from a robots sensors! We've released the <a href="https://github.com/facebookresearch/locate-3d/">model</a> and a new human annotated dataset for **100K** 3D referring expressions</a>, and a demo <a href="https://locate3d.atmeta.com/demo">demo</a>. Learn more about the models capabilities on our <a href="https://locate3d.atmeta.com>">website</a> for more details.
 </td>
 </tr>
  <tr>
