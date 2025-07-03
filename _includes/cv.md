@@ -2,27 +2,18 @@
 
 
 <b></b>
-<b>Announcements</b>
-<table class="table table-hover">
-<tr>
-<td class='col-md-3'> May 2025</td>
- <td> Our paper _Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D_ was accepted at ICML 2025 as a **spotlight paper! (top 2.6%)**. Find more details on our <a href="https://locate3d.atmeta.com>">website</a> (with links to models, new dataset and demo).
-</td>
-<tr>
-  <td class='col-md-3'>April 2025</td>
-  <td> We have release Locate3D a new SOTA model for locating objects from natural language expressions. Locate3D runs directly on pointclouds constructed from a robots sensors! We've released the <a href="https://github.com/facebookresearch/locate-3d/">model</a> and a new human annotated dataset for **100K** 3D referring expressions</a>, and a demo <a href="https://locate3d.atmeta.com/demo">demo</a>. Learn more about the models capabilities on our <a href="https://locate3d.atmeta.com>">website</a> for more details.
-</td>
-</tr>
- <tr>
- </tr>
-</table>
-
-
-
-<b></b>
 <b>Research Updates!</b>
 <table class="table table-hover">
-  <tr>
+<tr>
+ <td class='col-md-3'>June 2025</td>
+  <td> I had the pleasure of collaborating with the VJEPA team at FAIR, to train world models! We've release VJEPA2 and an action-conditioned world model based on VJEPA2. The action-conditioned world model enables zero-shot planning for pick, place tasks in new environments on (likely) new objects! Find the models and code to run the models <a href="https://github.com/facebookresearch/vjepa2">here</a>. To read more about VJEPA2 world models read our <a href="https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/">blog post</a> or <a href="https://arxiv.org/abs/2506.09985">paper</a>.</td>
+<tr>
+<td class='col-md-3'> May 2025</td>
+ <td> Our paper <b>Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D</b> was accepted at ICML 2025 as a <b>spotlight paper! (top 2.6%)</b>. Find more details on our <a href="https://locate3d.atmeta.com>">website</a> (with links to models, new dataset of <b>100K</b> 3D referring expressions annotations and a demo!).</td>
+<tr>
+  <td class='col-md-3'>April 2025</td>
+  <td> We have released Locate3D a new SOTA model for locating objects from natural language expressions. Locate3D runs directly on pointclouds constructed from a robots sensors! We've released the <a href="https://github.com/facebookresearch/locate-3d/">model</a> and a new human annotated dataset for <b>100K</b> 3D referring expressions</a>, and a demo <a href="https://locate3d.atmeta.com/demo">demo</a>. Learn more about the models capabilities on our <a href="https://locate3d.atmeta.com>">website</a> for more details.</td>
+ <tr>
   <td class='col-md-3'>April 2024</td>
   <td>We’re releasing OpenEQA — the Open-Vocabulary Embodied Question Answering Benchmark. It measures an AI agent’s understanding of physical environments by probing it with open vocabulary questions like “Where did I leave my badge?”! See our <a href="https://ai.meta.com/blog/openeqa-embodied-question-answering-robotics-ar-glasses/">blog post</a> and <a href="https://open-eqa.github.io">website</a> for more details.</td>
 </tr>
