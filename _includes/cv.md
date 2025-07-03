@@ -5,8 +5,8 @@
 <b>Announcements</b>
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Nov 2024</td>
-  <td> I am looking for a Research Scientist for my team. If you're interested in research at the intersection of manipulation, world models and imitation learning and are looking for research scientist positions, please contact me! See our job posting <a href="https://www.metacareers.com/jobs/1093551845379852/"> here </a>.</td>
+  <td class='col-md-3'>April 20205</td>
+  <td> We have release Locate3D a new SOTA model for locating objects from natural language expressions. Locate3D runs directly on pointclouds constructed from a robots sensors! We've released the <a href="https://github.com/facebookresearch/locate-3d/">model</a> and a new human annotated dataset for 3D referring expressions</a>, and a demo <a href="https://locate3d.atmeta.com/demo">demo</a>. Learn more about the models capabilities on our <a href="https://locate3d.atmeta.com>">website</a> for more details.</td>
 </tr>
  <tr>
  </tr>
