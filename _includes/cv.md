@@ -6,7 +6,7 @@
 <table class="table table-hover">
 <tr>
 <td class='col-md-3'> May 2025</td>
- <td> Our paper *Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D* was accepted at ICML 2025 as a **spotlight paper! (top 2.6%)**. Find more details on our <a href="https://locate3d.atmeta.com>">website</a> (with links to models, new dataset and demo).
+ <td> Our paper _Locate 3D: Real-World Object Localization via Self-Supervised Learning in 3D_ was accepted at ICML 2025 as a **spotlight paper! (top 2.6%)**. Find more details on our <a href="https://locate3d.atmeta.com>">website</a> (with links to models, new dataset and demo).
 </td>
 <tr>
   <td class='col-md-3'>April 2025</td>
